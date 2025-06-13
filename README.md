@@ -51,7 +51,7 @@ Example for input cities: `Hyderabad, Mumbai`
 
 ## 📎 Agent Link
 
-👉 [Try the Agent on Julep](https://app.julep.ai/agent/88d11eee-2935-40fc-9125-6ba7f8d54c56)
+👉 [Try the Agent on Julep](https://dashboard.julep.ai/projects/city_foodie_tour___weather_based/sessions/c75e3f04-3d8e-4f62-be86-2b935c98a46c/chat)
 
 ---
 
